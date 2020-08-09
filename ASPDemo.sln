@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPDemo", "ASPDemo\ASPDemo.csproj", "{E9A20F6E-9604-4578-AC1D-A015610069AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDemo", "WinDemo\WinDemo.csproj", "{FB8FDC12-8301-4D04-872D-865474151FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{6892B6DB-A067-4D55-B692-B0E47B0AC975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A20F6E-9604-4578-AC1D-A015610069AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A20F6E-9604-4578-AC1D-A015610069AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A20F6E-9604-4578-AC1D-A015610069AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A20F6E-9604-4578-AC1D-A015610069AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8FDC12-8301-4D04-872D-865474151FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8FDC12-8301-4D04-872D-865474151FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8FDC12-8301-4D04-872D-865474151FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8FDC12-8301-4D04-872D-865474151FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6892B6DB-A067-4D55-B692-B0E47B0AC975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6892B6DB-A067-4D55-B692-B0E47B0AC975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6892B6DB-A067-4D55-B692-B0E47B0AC975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6892B6DB-A067-4D55-B692-B0E47B0AC975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C570374E-6FDA-46E0-B9EC-FBFBB970AEF0}
+	EndGlobalSection
+EndGlobal
